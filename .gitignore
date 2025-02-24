@@ -1,0 +1,17 @@
+.secret
+test*
+lib/xpdf/*
+!lib/xpdf/.gitkeep
+data/*
+!data/defaultformat.pres
+
+*.pyc
+*.csv
+depr/*
+lib/*
+!lib/.gitkeep
+data/*
+!data/.gitkeep
+*.py[cod]
+__pycache__
+venv
