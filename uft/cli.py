@@ -9,7 +9,7 @@ import hashlib
 import os
 import functools
 
-import parsing
+from . import parsing
 
 
 def main(args):

@@ -1,0 +1,2 @@
+PyMuPDF==1.26.3
+watchgod==0.8.2
